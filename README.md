@@ -1,9 +1,7 @@
 # vue-cli
-
-![photo_2021-06-05_19-45-22](https://user-images.githubusercontent.com/81500583/120901467-558e3b00-c650-11eb-8587-a2eb473a389b.jpg)
-
-
 > A Vue.js project wonderful quotes
+
+![photo_2021-06-05_19-45-22](https://user-images.githubusercontent.com/81500583/120901641-6c815d00-c651-11eb-91f7-43a294380ebb.jpg)
 
 ## Build Setup
 
